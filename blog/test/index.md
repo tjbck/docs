@@ -6,4 +6,5 @@ tags: [release, random]
 
 hello world
 
-<!--truncate-->
+
+blog post
